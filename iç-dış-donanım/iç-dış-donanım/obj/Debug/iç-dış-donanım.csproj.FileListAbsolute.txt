@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\bin\Debug\iç-dış-donanım.exe.config
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\bin\Debug\iç-dış-donanım.exe
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\bin\Debug\iç-dış-donanım.pdb
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç-dış-donanım.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç-dış-donanım.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç_dış_donanım.Form1.resources
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç_dış_donanım.Properties.Resources.resources
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç-dış-donanım.csproj.GenerateResource.cache
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç-dış-donanım.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç-dış-donanım.exe
+C:\Users\User\source\repos\iç-dış-donanım\iç-dış-donanım\obj\Debug\iç-dış-donanım.pdb
